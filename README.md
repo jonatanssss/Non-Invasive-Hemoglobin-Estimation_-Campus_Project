@@ -78,6 +78,11 @@ Examples:
 - Matplotlib
 - Scikit-Image
 
+## Author
+
+Jonatan Pardamean Manurung
+Physics Undergraduate | Machine Learning & Computer Vision Enthusiast
+
 ## Repository Structure
 
 ```text
